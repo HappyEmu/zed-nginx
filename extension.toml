@@ -3,7 +3,7 @@ name = "Nginx"
 description = "Nginx syntax highlighting"
 version = "0.0.1"
 schema_version = 1
-authors = ["Urs Gerber"]
+authors = ["HappyEmu"]
 repository = "https://github.com/HappyEmu/zed-nginx"
 
 [grammars.nginx]

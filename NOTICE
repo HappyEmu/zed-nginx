@@ -1,0 +1,14 @@
+zed-nginx
+Copyright 2026 HappyEmu
+
+This extension includes work derived from:
+
+- zed-extensions/nginx (https://github.com/zed-extensions/nginx)
+  Copyright d1y (chenhonzhou)
+  Licensed under the Apache License 2.0
+  The highlights.scm file was adapted from this project.
+
+- tree-sitter-nginx (https://gitlab.com/joncoole/tree-sitter-nginx)
+  Copyright 2022-2024 Jonathan Coole
+  Licensed under GPLv3
+  The tree-sitter grammar used for parsing is forked from this project.
