@@ -7,5 +7,5 @@ authors = ["Urs Gerber"]
 repository = "https://github.com/gerberur/zed-nginx"
 
 [grammars.nginx]
-repository = "https://gitlab.com/joncoole/tree-sitter-nginx"
-rev = "b4b61db443602b69410ab469c122c01b1e685aa0"
+repository = "https://github.com/HappyEmu/tree-sitter-nginx"
+rev = "3f01a77ac93eec3cb8a8604ac344e6b0bbb1f63c"
