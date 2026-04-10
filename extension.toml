@@ -4,7 +4,7 @@ description = "Nginx syntax highlighting"
 version = "0.0.1"
 schema_version = 1
 authors = ["Urs Gerber"]
-repository = "https://github.com/gerberur/zed-nginx"
+repository = "https://github.com/HappyEmu/zed-nginx"
 
 [grammars.nginx]
 repository = "https://github.com/HappyEmu/tree-sitter-nginx"
