@@ -1,3 +1,5 @@
+<img width="410" height="384" alt="Screenshot 2026-04-10 at 17 47 59" src="https://github.com/user-attachments/assets/22e2d8ce-4522-4fca-b84e-d32bda082c0e" />
+
 # zed-nginx
 
 A [Zed](https://zed.dev) extension providing syntax highlighting for nginx configuration files.
