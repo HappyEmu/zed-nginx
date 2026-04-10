@@ -1,0 +1,11 @@
+id = "nginx"
+name = "Nginx"
+description = "Nginx syntax highlighting"
+version = "0.0.1"
+schema_version = 1
+authors = ["Urs Gerber"]
+repository = "https://github.com/gerberur/zed-nginx"
+
+[grammars.nginx]
+repository = "https://gitlab.com/joncoole/tree-sitter-nginx"
+rev = "b4b61db443602b69410ab469c122c01b1e685aa0"
