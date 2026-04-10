@@ -27,10 +27,10 @@
 (lua_block_directive
   "access_by_lua_block" @function)
 
-((generic) @constant.builtin
-  (#match? @constant.builtin "^(off|on)$"))
-
 (generic) @string
+
+((generic) @boolean
+  (#match? @boolean "^(off|on|true|false|yes|no)$"))
 
 (string) @string
 
